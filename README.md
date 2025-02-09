@@ -1,1 +1,2 @@
 # star
+begin world
